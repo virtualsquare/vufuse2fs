@@ -3,6 +3,8 @@
  *
  * Copyright (C) 2014 Oracle.
  *
+ * converted to rentrant code for vufuse (Renzo Davoli 2024)
+ *
  * %Begin-Header%
  * This file may be redistributed under the terms of the GNU Public
  * License.
